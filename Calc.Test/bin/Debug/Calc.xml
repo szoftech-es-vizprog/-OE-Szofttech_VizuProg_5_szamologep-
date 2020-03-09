@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Calc</name>
+    </assembly>
+    <members>
+        <member name="M:Calc.CalcCore.kivonas(System.String)">
+            <summary>
+            Ez egy kivonást megvalósító függvény
+            </summary>
+            <param name="v">A kivonás két tényezője műveleti jellel, string-ként</param>
+            <returns>A kivonás eredményét adja vissza INT ként</returns>
+        </member>
+        <member name="M:Calc.CalcCore.osszeadas(System.String)">
+            <summary>
+            Egy összeadást végez
+            </summary>
+            <param name="v">A két operandust várja műveleti jelle, string-ként</param>
+            <returns>Az összeadás eredményét adja vissza INTként</returns>
+        </member>
+    </members>
+</doc>

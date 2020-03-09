@@ -1,0 +1,15 @@
+C:\Users\aszabo\source\repos\Calc\Calc\bin\Debug\netstandard2.0\Calc.deps.json
+C:\Users\aszabo\source\repos\Calc\Calc\bin\Debug\netstandard2.0\Calc.dll
+C:\Users\aszabo\source\repos\Calc\Calc\bin\Debug\netstandard2.0\Calc.pdb
+C:\Users\aszabo\source\repos\Calc\Calc\obj\Debug\netstandard2.0\Calc.csprojAssemblyReference.cache
+C:\Users\aszabo\source\repos\Calc\Calc\obj\Debug\netstandard2.0\Calc.AssemblyInfoInputs.cache
+C:\Users\aszabo\source\repos\Calc\Calc\obj\Debug\netstandard2.0\Calc.AssemblyInfo.cs
+C:\Users\aszabo\source\repos\Calc\Calc\obj\Debug\netstandard2.0\Calc.dll
+C:\Users\aszabo\source\repos\Calc\Calc\obj\Debug\netstandard2.0\Calc.pdb
+C:\Users\aszabo\source\repos\Calc\Calc\bin\Debug\netstandard2.0\Calc.xml
+D:\szoft_tech_l2\4\Calc\Calc\Calc\obj\Debug\netstandard2.0\Calc.csprojAssemblyReference.cache
+D:\szoft_tech_l2\4\Calc\Calc\Calc\obj\Debug\netstandard2.0\Calc.csproj.CoreCompileInputs.cache
+D:\szoft_tech_l2\4\Calc\Calc\Calc\obj\Debug\netstandard2.0\Calc.AssemblyInfoInputs.cache
+D:\szoft_tech_l2\4\Calc\Calc\Calc\obj\Debug\netstandard2.0\Calc.AssemblyInfo.cs
+D:\szoft_tech_l2\4\Calc\Calc\Calc\obj\Debug\netstandard2.0\Calc.dll
+D:\szoft_tech_l2\4\Calc\Calc\Calc\obj\Debug\netstandard2.0\Calc.pdb
